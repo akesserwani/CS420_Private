@@ -27,7 +27,6 @@ public class Main {
             int cycleLength = calculateCycleLength(n);
             maxCycleLength = Math.max(maxCycleLength, cycleLength);
         }
-
         return maxCycleLength;
     }
 
