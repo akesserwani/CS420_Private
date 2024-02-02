@@ -1,0 +1,3 @@
+Equivalance classes:
+1. Odd positive integers greater than 0 and less than 1,000,000
+2. Even positive integers greater than 0 and less than 1,000,000
